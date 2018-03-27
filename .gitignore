@@ -1,3 +1,5 @@
 public/services/*
 templates/services/*
 newrelic.js
+
+node_modules
